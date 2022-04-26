@@ -1,0 +1,5 @@
+sbatch fasttext_kan_hope.sh
+sbatch fasttext_offenseval_dravidian_kn.sh
+sbatch fasttext_offenseval_dravidian_ml.sh
+sbatch fasttext_offenseval_dravidian_ta.sh
+sbatch fasttext_tamilmixsentiment.sh

@@ -1,0 +1,5 @@
+sbatch CV_kan_hope.sh
+sbatch CV_offenseval_dravidian_kn.sh
+sbatch CV_offenseval_dravidian_ml.sh
+sbatch CV_offenseval_dravidian_ta.sh
+sbatch CV_tamilmixsentiment.sh

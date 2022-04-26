@@ -1,0 +1,5 @@
+sbatch word2vec_kan_hope.sh
+sbatch word2vec_offenseval_dravidian_kn.sh
+sbatch word2vec_offenseval_dravidian_ml.sh
+sbatch word2vec_offenseval_dravidian_ta.sh
+sbatch word2vec_tamilmixsentiment.sh

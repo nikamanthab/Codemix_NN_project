@@ -1,0 +1,5 @@
+sbatch glove_kan_hope.sh
+sbatch glove_offenseval_dravidian_kn.sh
+sbatch glove_offenseval_dravidian_ml.sh
+sbatch glove_offenseval_dravidian_ta.sh
+sbatch glove_tamilmixsentiment.sh
